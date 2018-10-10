@@ -1,0 +1,12 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+  color: blueviolet;
+}
+h2.intro {
+  color: coral;
+}
+img.intro{
+  width: 400px;
+  height: 300px;
+}
