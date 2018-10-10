@@ -1,12 +1,11 @@
-p.intro {
+.interesting {
   width: 50%;
   font-style: italic;
   color: blueviolet;
 }
-h2.intro {
+.notinteresting {
   color: coral;
 }
-img.intro{
-  width: 400px;
-  height: 300px;
+.boring{
+  color: green;
 }
